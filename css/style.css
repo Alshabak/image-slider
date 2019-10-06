@@ -1,0 +1,37 @@
+body{
+
+    padding: 0;
+    margin: 0;
+    background-color: #A3A599;
+
+}
+
+.nav-bar{
+
+    background-color: #282623;
+    height: 6rem;
+}
+
+
+body .slider-img {
+display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  margin: 1rem 5rem ;
+padding:1rem;
+}
+
+body .slider-img .slide{
+    width: 900px;
+    height:500px;
+    margin-left: 5rem;
+
+}
+
+body .slider-img .arrow{
+    width: 100px;
+    margin-top: 5rem;
+
+}
